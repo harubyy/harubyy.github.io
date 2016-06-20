@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:13px/1.5 Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#000;
+  color:#0e2f44;
   font-weight:500;
 }
 
@@ -12,7 +12,7 @@ div.menu {
 }
   
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#088da5;
   margin:0 0 20px;
 }
 
@@ -26,15 +26,15 @@ h1, h2, h3 {
 
 h1 {
   font-size:26px;
-  color:#393939;
+  color:#088da5;
 }
 
 h2 {
-  color:#393939;
+  color:#088da5;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#794044;
   margin:10px 0 10px;
 }
 
