@@ -137,6 +137,7 @@ header ul li {
 section {
   width:500px;
   float:right;
+  margin-left:20px;
   /*padding-left:100px;*/
   padding-bottom:50px;
 }
