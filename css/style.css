@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
-  padding:80px;
+  padding:50px;
   font:13px/1.5 Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#908f94;
   font-weight:500;
@@ -34,7 +34,7 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  font-size:16px;
+  font-size:14px;
   color:#ba8722;
   margin:0 0 0;
   /*margin:10px 0 10px; */
@@ -135,7 +135,7 @@ header ul li {
 }
 
 section {
-  width:500px;
+  width:600px;
   float:right;
   margin-left:20px;
   /*padding-left:100px;*/
@@ -177,7 +177,7 @@ footer {
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0 0 0;
-    padding:20px 0;
+    padding:40px 0;
     margin:0 0 20px;
   }
   
